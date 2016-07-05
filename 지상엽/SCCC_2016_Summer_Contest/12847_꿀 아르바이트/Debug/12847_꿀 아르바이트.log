@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\hanavision-sang\documents\github\koreatech_study\지상엽\sccc_2016_summer_contest\12847_꿀 아르바이트\소스.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\hanavision-sang\documents\github\koreatech_study\지상엽\sccc_2016_summer_contest\12847_꿀 아르바이트\소스.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  12847_꿀 아르바이트.vcxproj -> C:\Users\HanaVision-Sang\Documents\GitHub\Koreatech_study\지상엽\SCCC_2016_Summer_Contest\Debug\12847_꿀 아르바이트.exe
