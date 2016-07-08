@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12840_창용이의 시계", "12840_창용이의 시계\12840_창용이의 시계.vcxproj", "{ABB44F47-37DC-488B-B8AD-EE6A14933732}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12846_무서운 아르바이트", "12846_무서운 아르바이트\12846_무서운 아르바이트.vcxproj", "{54B3912E-4C47-4813-81B7-D569B2320A8A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12847_꿀 아르바이트", "12847_꿀 아르바이트\12847_꿀 아르바이트.vcxproj", "{1A3F18AE-1693-46DF-A4C4-3861E812E138}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12842_튀김 소보루", "12842_튀김 소보루\12842_튀김 소보루.vcxproj", "{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{1A3F18AE-1693-46DF-A4C4-3861E812E138}.Release|x64.Build.0 = Release|x64
 		{1A3F18AE-1693-46DF-A4C4-3861E812E138}.Release|x86.ActiveCfg = Release|Win32
 		{1A3F18AE-1693-46DF-A4C4-3861E812E138}.Release|x86.Build.0 = Release|Win32
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Debug|x64.ActiveCfg = Debug|x64
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Debug|x64.Build.0 = Debug|x64
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Debug|x86.Build.0 = Debug|Win32
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Release|x64.ActiveCfg = Release|x64
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Release|x64.Build.0 = Release|x64
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Release|x86.ActiveCfg = Release|Win32
+		{1712BA2E-230F-4C3A-9A26-D48C654EE0E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
