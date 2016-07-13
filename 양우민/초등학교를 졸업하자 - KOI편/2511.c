@@ -1,3 +1,5 @@
+#include "header.h"
+
 void _2511() {
 	int i;
 	int a[10], b[10];
