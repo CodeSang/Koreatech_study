@@ -23,10 +23,13 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10136.c">
+    <ClCompile Include="10162.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10162.c">
+    <ClCompile Include="10163.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2511.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
