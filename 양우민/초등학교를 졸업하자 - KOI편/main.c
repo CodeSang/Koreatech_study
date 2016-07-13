@@ -1,6 +1,4 @@
-#include "header.h"
-
 int main() {
-	_2511();
+	_8982();
 	return 0;
 }

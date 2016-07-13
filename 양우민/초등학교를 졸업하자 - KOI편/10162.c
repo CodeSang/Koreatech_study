@@ -1,5 +1,3 @@
-#include "header.h"
-
 void _10162() {
 	int i;
 	int inputNum, temp;
