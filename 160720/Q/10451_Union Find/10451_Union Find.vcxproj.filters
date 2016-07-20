@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="최소비용 구하기_While.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="최소비용 구하기_PQ.cpp">
+    <ClCompile Include="순열 사이클.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
