@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C0BE47B3-5341-4504-8439-B5E8369AAD68}</ProjectGuid>
+    <ProjectGuid>{0207778B-77AE-491A-896D-6DBA2B56396F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My01708볼록껍질</RootNamespace>
+    <RootNamespace>My02261가장가까운두점</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>02261 - 가장 가까운 두 점 XXX</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
