@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E2C3AE17-11DF-4E60-8F35-0F7CE25B7560}</ProjectGuid>
+    <ProjectGuid>{78E5BE68-269C-46D4-8ADA-89B42B6955A8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2776암기왕</RootNamespace>
+    <RootNamespace>My1285동전뒤집기</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>1285 - 동전 뒤집기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -142,8 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="N.cpp" />
-    <ClCompile Include="NlogN.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
