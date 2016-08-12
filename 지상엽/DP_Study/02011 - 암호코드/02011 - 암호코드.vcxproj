@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BA10C249-DD2B-44E5-A5E7-B2D6EE569194}</ProjectGuid>
+    <ProjectGuid>{1C1BF588-3967-4521-9688-92D6CE6D530B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My08984막대기</RootNamespace>
+    <RootNamespace>My02011암호코드</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>F 08984 - 막대기</ProjectName>
+    <ProjectName>F 02011 - 암호코드</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="08984.cpp" />
+    <ClCompile Include="02011.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
